@@ -42,7 +42,7 @@ You'll be working with a lab partner, so the next step only needs to be done by 
 
 2. In the next screen, change the name to `introduction-to-github-first-partner-first-name-last-initial-second-partner-first-name-last-initial`. For example, `introduction-to-github-john-a-kyle-d`.
 
-3. Make the repository private and keep **Copy the main branch only** checked, then click **Create fork**.
+3. Ensure **Copy the main branch only** is checked, then click **Create fork**.
 
 4. Wait about 30 seconds for Github to finish forking the repository, then refresh the page. You can continue the lab from this repository.
 
