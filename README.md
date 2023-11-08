@@ -38,7 +38,7 @@ You'll be working with a lab partner, so the next step only needs to be done by 
 
 1. At the top right of the repository webpage, click the button labeled **Fork**. This makes a copy of the entire repository and moves it to your account so you can make whatever changes you want.
 
-![fork](images/fork.png)
+![Screenshot of the "Watch", "Fork", and "Star" buttons on GitHub](images/fork.png)
 
 2. In the next screen, change the name to `introduction-to-github-first-partner-first-name-last-initial-second-partner-first-name-last-initial`. For example, `introduction-to-github-john-a-kyle-d`.
 
@@ -59,11 +59,11 @@ Each lab partner will have to do this next section on their own
 
 1. At the top left of the page, click the button that says **main**
 
-![main-branch](images/main-branch.png)
+![Screenshot of the "default branch" button. It shows "main" because the current default branch is "main"](images/main-branch.png)
 
 2. Enter the name for the branch following the following naming convention, `first-name-last-initial-branch`. For example, `john-a-branch`. Then click **Create branch:**.
 
-![new-branch](images/new-branch.png)
+![Screenshot after clicking the "default branch" button](images/new-branch.png)
 
 </details>
 
@@ -76,7 +76,7 @@ A commit is a group of edits you've made to files and folders.
 
 2. Go back to the repository in your web browser. Click the green button near the top of the repository that says **Code**. Click the button next to the link to copy the link.
 
-![clone](images/clone.png)
+![Screenshot after clicking the green clone button](images/clone.png)
 
 3. In GitHub Desktop, click **Clone a repository from the internet**. You should see the repository you forked in the previous step. Select that repository and click **clone**.
 
@@ -137,7 +137,7 @@ Here is where the collaboration that GitHub features comes in.
 
 1. Back in GitHub Desktop, you'll still currently be in your own branch. Click the branch dropdown menu and select your partner's branch.
 
-![branch-dropdown-menu](images/branch-dropdown-menu.png)
+![Screenshot of the "current branch" in the GitHub desktop UI](images/branch-dropdown-menu.png)
 
 2. Open up your partner's file that they made and edit to contain the following:
 
@@ -208,23 +208,23 @@ Since the project files were given to you through a zip folder, you'll have to c
 
 Back in GitHub Desktop, click the button at the top left labeled **Current repository**. Next, click **Add**, then **Create New Repository**
 
-![new-repo](images/create-new-repository.png)
+![Screenshot of after clicking the "Add" button](images/create-new-repository.png)
 
 From this menu, fill in the Name with **IceMan-Project**. Choose the folder you put the project in, then click **Create repository**
 
-![new-repository-menu](images/new-repository-menu.png)
+![Screenshot of the "Create a new repository" UI](images/new-repository-menu.png)
 
 This will create a new folder named IceMan-Project inside the folder specified. In the example, this will be inside the Documents folder. From here, move the .gitignore file, IceMan folder (containing cpp and h files) and the IceMan.sln file into this **IceMan-Project** folder.
 
 In GitHub desktop, you should see these new files added. 
 
-![added-files](images/added-files.png)
+![Screenshot of all addes files in the GitHub Desktop UI](images/added-files.png)
 
 Next, click **Publish repository**, then the button also titled **public repository**. Now you'll be able to see this repository attached to your account on GitHub.
 
 On the bottom left of GitHub Desktop, fill in the 
 
-![initial-commit](images/initial-commit.png)
+![Screenshot of the "make a commit" section in the GitHub Desktop UI](images/initial-commit.png)
 
 Then click **Commit to main**. At the top, click **Push origin**. If you see **Fetch origin**, click that, then it will say **Push origin**. After that, you'll see your work has been uploaded to GitHub.
 
