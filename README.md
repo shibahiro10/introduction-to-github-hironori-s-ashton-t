@@ -32,7 +32,7 @@ A repository is a project of files and folders that are tracked for changes. Thi
 A parallel working version of your repository. You can have multiple branches at a time and branches can be created and deleted at will. Each repository's default branch is called `main`.
 
 <details>
-<summary><h2> Making a fork </h2></summary>
+<summary><h2>Making a fork</h2></summary>
 
 You'll be working with a lab partner, so the next step only needs to be done by one person.
 
@@ -51,7 +51,7 @@ You'll be working with a lab partner, so the next step only needs to be done by 
 </details>
 
 <details>
-<summary><h2> Making a branch </h2></summary>
+<summary><h2>Making a branch</h2></summary>
 
 Making a new branch allows you to make changes to the repository without affecting other aspects of the project. That means people can upload different changes to a project without conflicting with other's work.
 
@@ -68,7 +68,7 @@ Each lab partner will have to do this next section on their own
 </details>
 
 <details>
-<summary><h2> Commit a file </h2></summary>
+<summary><h2>Commit a file</h2></summary>
 
 A commit is a group of edits you've made to files and folders. 
 
@@ -105,7 +105,7 @@ Imagine you are pushing your 'block' of code to the repository. That is the same
 </details>
 
 <details>
-<summary><h2> Open a pull request </h2></summary>
+<summary><h2>Open a pull request</h2></summary>
 
 Pull requests, or PRs, are used to combine branches either from the same repository or a different one. Instead of heading straight to making a commit, a pull request can be used to propose a change. Someone else can then look over your proposal before approving it and adding your change to the target branch.
 
@@ -131,7 +131,7 @@ The conceptual understanding of a pull request is that you propose a change and 
 </details>
 
 <details>
-<summary><h2> Edit your partner's branch</h2></summary>
+<summary><h2>Edit your partner's branch</h2></summary>
 
 Here is where the collaboration that GitHub features comes in.
 
@@ -157,7 +157,7 @@ int main() {
 
 
 <details>
-<summary><h2> Merge your pull request </h2></summary>
+<summary><h2>Merge your pull request</h2></summary>
 
 Now that both of you have created a pull request, you can both view each other's new branch and file. Merging a pull request is the act of combining two different branches into one, the two branches you proposed in your pull request.
 
@@ -177,10 +177,10 @@ The last section will show you how to use what you learned with your final proje
 </details>
 
 <details>
-<summary><h2> GitHub and your Final Project </h2></summary>
+<summary><h2>GitHub and your Final Project</h2></summary>
 Since your final project will be done with a partner, GitHub is a perfect tool to use to collaborate. Refer back here when starting your project.
 
-<h2> .gitignore </h2>
+<h2>.gitignore</h2>
 Only one group member needs to do the next section. The other group member will clone the repository later.
 
 .gitignore is a file that can be used to ignore certain files inside a repository folder. This means you can have notes and other personal files inside the same folder as the repository folder without sharing them with others.
@@ -203,7 +203,7 @@ Each line here is a file or folder that git will ignore when scanning your folde
 
 Since the project has so many files, it is easier to specify what git shouldn't ignore. The `*` tells git to ignore everything. Then the `!` in front of each file name tells git that it shouldn't ignore that file.
 
-<h2> Creating your repository </h2>
+<h2>Creating your repository</h2>
 Since the project files were given to you through a zip folder, you'll have to create your own repository. 
 
 Back in GitHub Desktop, click the button at the top left labeled **Current repository**. Next, click **Add**, then **Create New Repository**
